@@ -60,6 +60,10 @@ Donate: BTC - 13vdSzghad1KWymvMDDPixN3ktdkZWaS7f
 Coded by Adrijan Petek
 
 
-#
-#
+# TODO:
+-Monero Wallet
+-Litecoin Wallet
+
+
+
 
