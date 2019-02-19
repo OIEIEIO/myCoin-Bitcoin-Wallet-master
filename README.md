@@ -1,4 +1,4 @@
-# Coded by Adrijan Petek
+# myCoin
 ```
 Python3+
 ```
