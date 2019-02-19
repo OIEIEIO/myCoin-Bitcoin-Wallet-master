@@ -23,14 +23,14 @@ $ pyton myCoin.py
 # Usage
 ```
 Select: 1 Bitcoin wallet 
-        2 Etherum wallet
+        2 Ethereum wallet
         0 = Exit
 ```
 
 # How it works
 
 ```
-From passphrases create privatekey, from private key create pubkey and address. Wallet's are saved in txt file Bitcoin Wallet.txt or Etherum Wallet.txt. So store them in safe place.
+From passphrases create privatekey, from private key create pubkey and address. Wallet's are saved in txt file Bitcoin Wallet.txt or Ethereum Wallet.txt. So store them in safe place.
 
 ```
 # Bitcoin Wallet.txt
@@ -42,7 +42,7 @@ Publickey:  048f3c1ae61f9b4e5bd43108735f9d43474c3282689d418fa43f6ff51913af7c9d41
 Address:  1JdiGVbSeoaHYPd3ivEi96t9D1MsCc7WRn
 WIF: b'5K8R898hJCAnEW46HU6uCYqcqZsHoJCQt98FoPY3aHrUzxdbxNJ'
 ```
-# Etherum Wallet.txt
+# Ethereum Wallet.txt
 ```
 Phrases: glove bow car snow register
 E-mail: abc@gmail.com
