@@ -61,9 +61,12 @@ Coded by Adrijan Petek
 
 
 # TODO:
-Monero Wallet
-Litecoin Wallet
-
+```
+-Monero Wallet
+-Litecoin Wallet
+-base64.encode
+-gui
+```
 
 
 
