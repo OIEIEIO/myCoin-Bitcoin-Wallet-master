@@ -38,7 +38,7 @@ From passphrases create privatekey, from private key create pubkey and address. 
 Phrases:     glove bow car snow register
 E-mail:      abc@gmail.com
 Privatekey:  acdcd1914079563c7fc3f6c0ceda32382ca280021d9b4b96aa2e4341f8a2e0af
-Publickey:  048f3c1ae61f9b4e5bd43108735f9d43474c3282689d418fa43f6ff51913af7c9d4122e8d0f303d8ca5b4e0fbae4fe896aa56494ee4c1c33f0cf30fc409c451a63
+Publickey:   048f3c1ae61f9b4e5bd43108735f9d43474c3282689d418fa43f6ff51913af7c9d4122e8d0f303d8ca5b4e0fbae4fe896aa56494ee4c1c33f0cf30fc409c451a63
 Address:     1JdiGVbSeoaHYPd3ivEi96t9D1MsCc7WRn
 WIF:         b'5K8R898hJCAnEW46HU6uCYqcqZsHoJCQt98FoPY3aHrUzxdbxNJ'
 ```
