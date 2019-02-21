@@ -30,7 +30,7 @@ Select: 1 Bitcoin wallet
 # How it works
 
 ```
-From passphrases create privatekey, from private key create pubkey and address. Wallet's are saved in txt file Bitcoin Wallet.txt or Ethereum Wallet.txt. So store them in safe place.
+From phrases and e-mail create privatekey for better securty, from private key create pubkey and address. Wallet's are saved in txt file Bitcoin Wallet.txt or Ethereum Wallet.txt. So store them in safe place.
 
 ```
 # Bitcoin Wallet.txt
@@ -65,7 +65,7 @@ Coded by Adrijan Petek
 -Monero Wallet
 -Litecoin Wallet
 -base64.encode
--gui
+-salt for better securty
 ```
 
 
